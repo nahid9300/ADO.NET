@@ -1,0 +1,12 @@
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\bin\Debug\CoffeeShopByADO.NET.exe.config
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\bin\Debug\CoffeeShopByADO.NET.exe
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\bin\Debug\CoffeeShopByADO.NET.pdb
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.csprojAssemblyReference.cache
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.Properties.Resources.resources
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.csproj.GenerateResource.cache
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.exe
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.pdb
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.CustomerUI.resources
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.ItemUI.resources
+C:\Users\Prince\source\repos\CoffeeShopByADO.NET\CoffeeShopByADO.NET\obj\Debug\CoffeeShopByADO.NET.OrderUI.resources
